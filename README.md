@@ -129,5 +129,3 @@ Diagram used to build the application, the same diagram was made in [Excalidraw]
 - [WebSockets](https://github.com/fastify/fastify-websocket): A communication protocol that provides full-duplex communication channels over a single TCP connection, used for real-time updates.
 - [Fastify](https://fastify.dev/): A web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture.
 
-![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
-<!--END_SECTION:footer-->
